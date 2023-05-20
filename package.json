@@ -1,0 +1,15 @@
+{
+  "name": "take-home-exercise",
+  "version": "1.0.0",
+  "description": "This is a sandbox application for testing interaction with Epic's FHIR",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nicholas Fleischhauer",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "crypto": "^1.0.1"
+  }
+}
